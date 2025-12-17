@@ -14,7 +14,7 @@
   "author": "Giancarlos Salas",
   "license": "MIT",
   "dependencies": {
-    "routecraft": "^4.2.0",
+    "routecraft": "*",
     "axios": "^0.21.4"
   }
 }
